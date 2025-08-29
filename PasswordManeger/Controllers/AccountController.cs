@@ -29,7 +29,7 @@ namespace PasswordManeger.Controllers
             {
                 var result = await signInManager.PasswordSignInAsync(model.Email, model.Password, model.RememberMe, false);
 
-                if(result.Succeeded)
+                if (result.Succeeded)
                 {
                     return Redirect("/DashBoard/DashBoard");
                 }
