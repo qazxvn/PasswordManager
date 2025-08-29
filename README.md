@@ -8,4 +8,4 @@
 ![Авторизация](ScreenShots/Login.PNG)
 
 ### Панель инструментов
-![Dashboard](ScreenShots/DashBoard.PNG)
+![Dashboard]((https://github.com/qazxvn/PasswordManager/blob/master/PasswordManeger/ScreenShots/DashBoard.PNG))
