@@ -2,10 +2,10 @@
 ### Скриншоты
 
 ### Регистрация
-![Регистрация](screenshots/Register.PNG)
+![Регистрация](ScreenShots/Register.PNG)
 
 ### Авторизация
-![Авторизация](screenshots/Login.PNG)
+![Авторизация](ScreenShots/Login.PNG)
 
 ### Панель инструментов
-![Dashboard](screenshots/DashBoard.PNG)
+![Dashboard](ScreenShots/DashBoard.PNG)
