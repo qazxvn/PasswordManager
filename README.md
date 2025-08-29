@@ -2,10 +2,10 @@
 ### Скриншоты
 
 ### Регистрация
-![Регистрация](ScreenShots/Register.PNG)
+![Регистрация](https://github.com/qazxvn/PasswordManager/blob/master/PasswordManeger/ScreenShots/Register.PNG?raw=true)
 
 ### Авторизация
-![Авторизация](ScreenShots/Login.PNG)
+![Авторизация](https://github.com/qazxvn/PasswordManager/blob/master/PasswordManeger/ScreenShots/Login.PNG?raw=true)
 
 ### Панель инструментов
-![Dashboard](ScreenShots/DashBoard.PNG)
+![Dashboard](https://github.com/qazxvn/PasswordManager/blob/master/PasswordManeger/ScreenShots/DashBoard.PNG?raw=true)
